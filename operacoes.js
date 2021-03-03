@@ -1,0 +1,1 @@
+console.log('aqui ficam as operações')
